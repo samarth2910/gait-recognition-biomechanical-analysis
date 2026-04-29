@@ -252,7 +252,7 @@ Then:
 
 ## 👨‍💻 Author
 
-**Samarth Shetty**
+**Samarth Shetty &**
 **Arpan Kawale**
 
 ---
