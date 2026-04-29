@@ -1,7 +1,8 @@
 # 🚶‍♂️ Gait Recognition System (Open-Set Biometric Identification)
 
 A deep learning–based gait recognition system that identifies individuals from walking patterns using pose estimation and temporal modeling.
-The system is designed for **open-set recognition**, meaning it can also detect **unknown / intruder subjects** and perform **clinical biomechanical analysis**.
+The system is designed for **open-set recognition**, meaning it can also detect **unknown / intruder subjects** and perform **clinical biomechanical analysis**..
+
 
 ---
 
