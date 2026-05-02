@@ -8,6 +8,12 @@ The system is designed for **open-set recognition**, meaning it can also detect 
 
 ## 📸 Screenshots
 
+### 🖥️ System Interface (Streamlit App)
+![System Interface](assets/Screenshot%20(359).png)
+> Streamlit-based interface enabling video upload, real-time gait analysis, threshold tuning, and open-set identification with biomechanical insights.
+
+---
+
 ### ❌ Unknown / Intruder Detection
 ![Unknown Detection](assets/Screenshot%20(205).png)
 > System rejects an unrecognised subject — entropy too high (0.626 > 0.600), flagged as **Unknown / Intruder**
@@ -29,7 +35,6 @@ The system is designed for **open-set recognition**, meaning it can also detect 
 ### 🦿 Biomechanical Radar + Symmetry
 ![Radar and Symmetry](assets/Screenshot%20(255).png)
 > Deviation-from-normal radar chart alongside the left–right gait symmetry index
-
 ---
 
 ## 📌 Overview
