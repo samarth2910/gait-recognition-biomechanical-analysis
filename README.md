@@ -259,7 +259,6 @@ Then:
 
 **Samarth Shetty**
 
-**Arpan Kawale**
 
 ---
 
